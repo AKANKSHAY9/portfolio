@@ -178,6 +178,9 @@ section.about .social a:hover{
 .section-heading span{
     color: var(--primary);
 }
+.section-heading h1{
+    color: var(--secondary);
+}
 .section-heading + p{
     color: var(--ternary);
     font-family: 'Lato',sans-serif;
@@ -197,7 +200,7 @@ section.skills {
 }
 section.skills .card-wrapper .card{
     background: var(--pure);
-    padding: 3rem 2rem;
+    padding: 4rem 3rem;
     border-radius: 5rem;
     position: relative;
     padding-top: 6rem;
